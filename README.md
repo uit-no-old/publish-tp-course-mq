@@ -1,6 +1,6 @@
 ## Installation/setup tp-canvas.uit.no
 
-#### Yum
+#### Install python 3.6
 
 Add repo:  
 `sudo yum install -y https://centos7.iuscommunity.org/ius-release.rpm`
