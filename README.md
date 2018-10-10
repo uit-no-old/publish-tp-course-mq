@@ -1,3 +1,6 @@
+**10.10.2018 - Øyvind - MOVED TO https://github.com/uit-no/publish-tp-course-mq**
+
+
 # Publish TP-course changes to RabbitMQ
 
 python 3.6
