@@ -22,7 +22,7 @@ install packages:
 `sudo pip3.6 --proxy http://swproxy.uit.no:3128 install pika requests`
 
 #### Checkout script
-`git clone git@bitzer.uit.no:sua/publish-tp-course-mq.git /home/sua/publish-tp-course-mq`
+`git clone git@github.com:uit-no/publish-tp-course-mq.git /home/sua/publish-tp-course-mq`
 
 #### Setup Crontab
 `crontab -e`
